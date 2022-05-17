@@ -1,23 +1,24 @@
 ---
 title: Nicolaj Thor
-role: Predoctoral Research Fellow in Economics at Harvard University
+role: Predoctoral Research Fellow in Economics
 avatar_filename: nico.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Social Capital
   - Networks
   - Behavioural Economics
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/nicolajthor
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/nicolajthor
+  - display:
+      header: false
+    link: https://twitter.com/nicolajthor
+    icon_pack: fab
+    icon: twitter
 organizations:
   - name: Harvard University
 education:
