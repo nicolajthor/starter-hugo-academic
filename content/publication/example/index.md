@@ -5,9 +5,30 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - "Social Capital in the United States I: Measurement and Associations with
-    Economic Mobility"
-author_notes: []
+  - with Raj Chetty
+  - Matthew O. Jackson
+  - Johannes Stroebel
+  - Theresa Kuchler
+  - Nathaniel Hendren
+  - Robert Fluegge
+  - Sara Gong
+  - Federico Gonzalez
+  - Armelle Grondin
+  - Matthew Jacob
+  - Drew Johnston
+  - Martin Koenen
+  - Eduardo Laguna-Muggenburg
+  - Florian Mudekereza
+  - Tom Rutter
+  - Wilbur Townsend
+  - Ruby Zhang
+  - Mike Bailey
+  - Pablo Barberá
+  - Monica Bhole
+  - Nils Wernerfelt
+  - and the Meta Core Data Science Team
+author_notes:
+  - a
 publication: conditionally accepted at Nature
 summary: ""
 url_dataset: ""
@@ -15,12 +36,8 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: with Raj Chetty, Matthew O. Jackson, Johannes Stroebel, Theresa Kuchler,
-  Nathaniel Hendren, Robert Fluegge, Sara Gong, Federico Gonzalez, Armelle
-  Grondin, Matthew Jacob, Drew Johnston, Martin Koenen, Eduardo
-  Laguna-Muggenburg, Florian Mudekereza, Tom Rutter, Wilbur Townsend, Ruby
-  Zhang, Mike Bailey, Pablo Barberá, Monica Bhole, Nils Wernerfelt, and the Meta
-  Core Data Science Team
+title: "Social Capital in the United States I: Measurement and Associations with
+  Economic Mobility"
 subtitle: conditionally accepted at Nature
 doi: ""
 featured: true
