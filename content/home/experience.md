@@ -22,36 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Predoctoral Research Fellow in Economics
-    company: Harvard University
-    company_url: https://www.harvard.edu/
+  - title: 'Predoctoral Research Fellow in Economics'
+    company: 'Harvard University'
+    company_url: 'https://www.harvard.edu/'
     company_logo: logo-h
-    location: Cambridge, MA, USA
-    date_start: July 2019
-    date_end: July 2022
-    description: |2-
+    location: 'Cambridge, MA, USA'
+    date_start: '2019-07-07'
+    date_end: '2022-07-30'
+    description: >-
         Responsibilities include:
         
         * Analysing
         * Modelling
         * Deploying
 
-  - title: Undergraduate Visiting Research Intern
-    company: Stanford University
-    company_url: https://www.stanford.edu/
-    company_logo: org-x
-    location: Palo Alto, CA, USA
-    date_start: July 2018
-    date_end: August 2018
+  - title: 'Undergraduate Visiting Research Intern'
+    company: 'Stanford University'
+    company_url: 'https://www.stanford.edu/'
+    company_logo: logo-h
+    location: 'Palo Alto, CA, USA'
+    date_start: '2018-07-01'
+    date_end: '2018-08-01'
     description: XX
     
-  - title: Undergraduate Visiting Researcher
-    company: UCLA
-    company_url: https://www.ucla.edu/
-    company_logo: org-x
-    location: Los Angeles, CA, USA
-    date_start: June 2017
-    date_end: August 2017
+  - title: 'Undergraduate Visiting Researcher'
+    company: 'UCLA'
+    company_url: 'https://www.ucla.edu/'
+    company_logo: logo-h
+    location: 'Los Angeles, CA, USA'
+    date_start: '2017-06-01'
+    date_end: '2017-08-01'
     description: XX
 
 design:
