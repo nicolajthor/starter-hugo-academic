@@ -13,7 +13,7 @@ social:
     link: https://github.com/nicolajthor
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/nicolajthor
+    link: https://www.linkedin.com/in/nicolajthor
   - display:
       header: false
     link: https://twitter.com/nicolajthor
