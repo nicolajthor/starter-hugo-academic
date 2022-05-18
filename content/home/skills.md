@@ -16,7 +16,7 @@ feature:
     icon_pack: fas
     name: SQL
     description: Advanced
-  - icon: chart-scatter
+  - icon: chart-scatter-bubble
     icon_pack: fas
     name: STATA
     description: Advanced
