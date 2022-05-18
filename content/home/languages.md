@@ -20,10 +20,10 @@ feature:
      description: Intermediate
   -  name: English
      description: Bilingual
-   -  name: French
+  -  name: French
      description: Advanced
-   -  name: German
+  -  name: German
      description: Bilingual
-   -  name: Spanish
+  -  name: Spanish
      description: Advanced
 ---
