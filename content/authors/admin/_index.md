@@ -2,10 +2,10 @@
 title: Nicolaj Thor
 role: Predoctoral Research Fellow in Economics
 avatar_filename: nico.jpeg
-bio: "Nicolaj is a predoctoral research fellow in Economics at Opportunity Insights based at Harvard University."
+bio: "I am a predoctoral research fellow in Economics at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, behavioural economics, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths from NYU Abu Dhabi in 2019."
 interests:
-  - Social Capital
-  - Networks
+  - Social Capital and Networks
+  - Development Economics
   - Behavioural Economics
 social:
   - icon: github
@@ -30,3 +30,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am a predoctoral research fellow in Economics at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, behavioural economics, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths from NYU Abu Dhabi in 2019.
