@@ -7,7 +7,7 @@ authors:
   - Cameron Ballard-Rosa
   - Ronald Rogowski
   - Kenneth Scheve
-  - Nicolaj Thor
+  - admin
 publication: Revise & Resubmit at Journal of Public Economics
 draft: false
 featured: false
