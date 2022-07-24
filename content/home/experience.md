@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'Contingent Worker, Core Data Science Team'
+    company: 'Meta'
+    company_url: 'https://www.harvard.edu/'
+    company_logo: logo-h
+    location: 'Cambridge, MA, USA'
+    date_start: '2020-07-07'
+    date_end: 
+    description: 
   - title: 'Predoctoral Research Fellow in Economics'
     company: 'Harvard University'
     company_url: 'https://www.harvard.edu/'
@@ -36,6 +44,15 @@ experience:
     company_url: 'https://www.stanford.edu/'
     company_logo: logo-h
     location: 'Palo Alto, CA, USA'
+    date_start: '2018-07-01'
+    date_end: '2018-08-01'
+    description: XX
+    
+  - title: 'Undergraduate Researcher, Statistics'
+    company: 'NYU Stern'
+    company_url: 'https://www.stanford.edu/'
+    company_logo: logo-h
+    location: 'New York, NY, USA'
     date_start: '2018-07-01'
     date_end: '2018-08-01'
     description: XX
