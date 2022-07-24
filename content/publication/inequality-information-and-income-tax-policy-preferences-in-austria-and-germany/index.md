@@ -4,9 +4,10 @@ title: Inequality, Information, and Income Tax Policy Preferences in Austria and
 publication_types:
   - "2"
 authors:
-  - with Cameron Ballard-Rosa
+  - Cameron Ballard-Rosa
   - Ronald Rogowski
-  - and Kenneth Scheve
+  - Kenneth Scheve
+  - **Nicolaj Thor**
 publication: Revise & Resubmit at Journal of Public Economics
 draft: false
 featured: false

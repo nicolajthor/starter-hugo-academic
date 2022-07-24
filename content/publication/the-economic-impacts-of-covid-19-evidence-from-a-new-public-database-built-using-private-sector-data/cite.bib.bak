@@ -1,0 +1,9 @@
+@TechReport{social_capital_i,
+  author      = {Chetty, Raj and Friedman, John N. and Hendren, Nathaniel and Stepner, Michael and the Opportunity Insights Team},
+  institution = {NBER Working Paper No. 27431},
+  title       = {{T}he {E}conomic {I}mpacts of {COVID}-19: {E}vidence from a {N}ew {P}ublic {D}atabase {B}uilt {U}sing {P}rivate {S}ector {D}ata},
+  year        = {2020},
+  month       = nov,
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

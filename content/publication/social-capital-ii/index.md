@@ -5,10 +5,10 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - with Raj Chetty
+  - Raj Chetty
   - Matthew O. Jackson
-  - Johannes Stroebel
   - Theresa Kuchler
+  - Johannes Stroebel
   - Nathaniel Hendren
   - Robert Fluegge
   - Sara Gong
@@ -20,26 +20,24 @@ authors:
   - Eduardo Laguna-Muggenburg
   - Florian Mudekereza
   - Tom Rutter
+  - **Nicolaj Thor**
   - Wilbur Townsend
   - Ruby Zhang
   - Mike Bailey
   - Pablo Barberá
   - Monica Bhole
   - Nils Wernerfelt
-  - and the Meta Core Data Science Team
-author_notes:
-  - a
-publication: conditionally accepted at Nature
+author_notes: []
+publication: Forthcoming at Nature
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Social Capital in the United States I: Measurement and Associations with
-  Economic Mobility"
-subtitle: conditionally accepted at Nature
-doi: ""
+title: "Social capital II: determinants of economic connectedness"
+subtitle: Forthcoming at Nature
+doi: "10.1038/s41586-022-04997-3"
 featured: true
 tags: []
 projects: []

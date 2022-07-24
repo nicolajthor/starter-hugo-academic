@@ -5,10 +5,10 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - with Raj Chetty
+  - Raj Chetty
   - Matthew O. Jackson
-  - Johannes Stroebel
   - Theresa Kuchler
+  - Johannes Stroebel
   - Nathaniel Hendren
   - Robert Fluegge
   - Sara Gong
@@ -20,25 +20,24 @@ authors:
   - Eduardo Laguna-Muggenburg
   - Florian Mudekereza
   - Tom Rutter
+  - **Nicolaj Thor**
   - Wilbur Townsend
   - Ruby Zhang
   - Mike Bailey
   - Pablo Barberá
   - Monica Bhole
   - Nils Wernerfelt
-  - and the Meta Core Data Science Team
 author_notes: []
-publication: conditionally accepted at Nature
+publication: Forthcoming at Nature
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Social Capital in the United States II: Exposure, Friending Bias, and
-  the Determinants of Economic Connectedness"
+title: "Social capital I: measurement and associations with economic mobility"
 subtitle: ""
-doi: ""
+doi: "10.1038/s41586-022-04996-4"
 featured: true
 tags: []
 projects: []
