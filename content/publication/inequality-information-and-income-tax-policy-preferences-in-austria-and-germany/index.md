@@ -8,7 +8,7 @@ authors:
   - Ronald Rogowski
   - Kenneth Scheve
   - admin
-publication: Revise & Resubmit at Journal of Public Economics
+publication: (Senior Thesis). Revise & Resubmit at Journal of Public Economics
 draft: false
 featured: false
 image:
