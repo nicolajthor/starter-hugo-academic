@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 5
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -29,12 +29,7 @@ experience:
     location: 'Cambridge, MA, USA'
     date_start: '2019-07-07'
     date_end: '2022-07-30'
-    description: >-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: Research at Opportunity Insights
 
   - title: 'Undergraduate Visiting Research Intern'
     company: 'Stanford University'
