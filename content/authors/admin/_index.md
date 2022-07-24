@@ -19,6 +19,12 @@ social:
     link: https://twitter.com/nicolajthor
     icon_pack: fab
     icon: twitter
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=Wg68OrAAAAAJ
+    icon_pack: fas
+    icon: graduation-cap
+  
 organizations:
   - name: Brown University
 education:
