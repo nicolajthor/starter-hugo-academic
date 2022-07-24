@@ -8,7 +8,7 @@ authors:
   - John N. Friedman
   - Nathaniel Hendren
   - Michael Stepner
-  - Opportunity Insights Team
+  - oi_team
 publication: NBER Working Paper No. 27431
 draft: false
 featured: false

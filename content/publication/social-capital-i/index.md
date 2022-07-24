@@ -20,7 +20,7 @@ authors:
   - Eduardo Laguna-Muggenburg
   - Florian Mudekereza
   - Tom Rutter
-  - Nicolaj Thor
+  - admin
   - Wilbur Townsend
   - Ruby Zhang
   - Mike Bailey
