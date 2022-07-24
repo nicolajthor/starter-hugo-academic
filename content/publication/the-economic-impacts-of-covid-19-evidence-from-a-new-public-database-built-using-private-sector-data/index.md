@@ -16,5 +16,5 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-05-17T22:13:11.383Z
+date: 2020
 ---

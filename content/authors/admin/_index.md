@@ -1,6 +1,6 @@
 ---
 title: Nicolaj Thor
-role: Economics PhD Student at Brown
+role: Economics PhD Student
 avatar_filename: nico.jpeg
 bio: "I'm a first-year PhD student in Economics at Brown University. Previously, I was a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, behavioural economics, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths from NYU Abu Dhabi in 2019."
 interests:
