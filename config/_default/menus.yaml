@@ -9,19 +9,16 @@ main:
     weight: 1
   - name: Experience
     url: '#experience'
-    weight: 2
-  - name: Publications
-    url: '#publications'
-    weight: 3
-  - name: Talks
-    url: '#talks'
     weight: 4
-  - name: Awards
-    url: '#accomplishments'
-    weight: 5
+  - name: Papers
+    url: '#publications'
+    weight: 2
+  - name: Presentations
+    url: '#talks'
+    weight: 3
   - name: CV
     url: uploads/CV.pdf
-    weight: 6
+    weight: 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
