@@ -2,6 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
+active: false
 
 # This file represents a page section.
 headless: true
@@ -22,6 +23,25 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-25'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Neural Networks and Deep Learning
+    url: ''
+   
+item:
+  - certificate_url: https://www.coursera.org
+    date_end: ''
+    date_start: '2021-01-25'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Neural Networks and Deep Learning
+    url: ''
 item:
   - certificate_url: https://www.coursera.org
     date_end: ''
