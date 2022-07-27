@@ -29,7 +29,7 @@ experience:
     location: 'Cambridge, MA, USA'
     date_start: '2019-07-01'
     date_end: '2022-07-31'
-    description: Predoc at Opportunity Insights. PIs: Raj Chetty, John Friedman, Nathaniel Hendren
+    description: 'Predoc at Opportunity Insights (PIs: Raj Chetty, John Friedman, Nathaniel Hendren)'
 
   - title: 'Undergraduate Visiting Research Intern'
     company: 'Stanford University'
