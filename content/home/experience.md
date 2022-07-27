@@ -40,7 +40,7 @@ experience:
     date_end: '2018-08-31'
     description: 'Senior thesis research with collaborator (Kenneth Scheve)'
     
-  - title: 'Undergraduate Researcher, Statistics'
+  - title: 'Undergraduate Researcher'
     company: 'NYU Stern School of Business'
     company_url: 'https://www.stanford.edu/'
     company_logo: logo-nyu
