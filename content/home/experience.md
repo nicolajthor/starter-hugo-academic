@@ -38,7 +38,7 @@ experience:
     location: 'Palo Alto, CA, USA'
     date_start: '2018-07-01'
     date_end: '2018-08-31'
-    description: Senior thesis research with collaborator \(Kenneth Scheve\)
+    description: 'Senior thesis research with collaborator (Kenneth Scheve)'
     
   - title: 'Undergraduate Researcher, Statistics'
     company: 'NYU Stern School of Business'
@@ -47,7 +47,7 @@ experience:
     location: 'New York, NY, USA'
     date_start: '2018-03-01'
     date_end: '2018-05-31'
-    description: Research in statistics. PI: Clifford Hurvich
+    description: 'Research in statistics (PI: Clifford Hurvich)'
     
   - title: 'Undergraduate Visiting Researcher'
     company: 'UCLA'
@@ -56,7 +56,7 @@ experience:
     location: 'Los Angeles, CA, USA'
     date_start: '2017-06-01'
     date_end: '2017-07-31'
-    description: Senior thesis research with collaborator \(Ronald Rogowski\)
+    description: 'Senior thesis research with collaborator (Ronald Rogowski)'
 
 design:
   columns: '2'
