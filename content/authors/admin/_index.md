@@ -39,5 +39,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a first-year PhD student in Economics at Brown. Previously, I was a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, behavioural economics, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths from NYU Abu Dhabi in 2019. 
-You can reach me at nicolaj_thor@brown.edu.
+I'm a first-year PhD student in Economics at Brown. Previously, I was a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, behavioural economics, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths from NYU Abu Dhabi in 2019. You can reach me at thor@brown.edu.
