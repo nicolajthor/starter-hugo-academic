@@ -28,7 +28,7 @@ authors:
   - Monica Bhole
   - Nils Wernerfelt
 author_notes: []
-publication: Forthcoming at Nature
+publication: Nature (2022)
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -36,7 +36,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: "Social capital II: determinants of economic connectedness"
-subtitle: Forthcoming at Nature
+subtitle:
 doi: "10.1038/s41586-022-04997-3"
 featured: true
 tags: []

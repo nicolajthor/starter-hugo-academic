@@ -28,7 +28,7 @@ authors:
   - Monica Bhole
   - Nils Wernerfelt
 author_notes: []
-publication: Forthcoming at Nature
+publication: Nature (2022)
 summary: ""
 url_dataset: ""
 url_project: ""
