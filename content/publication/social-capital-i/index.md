@@ -51,9 +51,16 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 links:
+- name: Social Capital Atlas
+  url: https://socialcapital.org/
 - name: Full Paper (Nature)
   url: https://doi.org/10.1038/s41586-022-04996-4
-- name: Supplementary Information
-  url: https://arxiv.org/pdf/2007.12177.pdf
-
+- name: Supplementary Information (Nature)
+  url: https://static-content.springer.com/esm/art\%3A10.1038\%2Fs41586-022-04996-4/MediaObjects/41586_2022_4996_MOESM1_ESM.pdf
+- name: Full Paper (NBER WP)
+  url: "nber_wp.pdf"
+- name: Code and Data
+  url: https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=3978
+- name: Slides
+  url: "slides.pdf"
 ---
