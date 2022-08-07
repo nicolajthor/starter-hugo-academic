@@ -50,4 +50,10 @@ url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
+links:
+- name: Full Paper (Nature)
+  url: https://doi.org/10.1038/s41586-022-04996-4
+- name: Supplementary Information
+  url: https://arxiv.org/pdf/2007.12177.pdf
+
 ---
