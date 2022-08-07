@@ -37,7 +37,6 @@ url_source: ""
 url_video: ""
 title: "Social capital I: measurement and associations with economic mobility"
 subtitle: ""
-doi: "10.1038/s41586-022-04996-4"
 featured: true
 tags: []
 projects: []
@@ -55,12 +54,20 @@ links:
   url: https://socialcapital.org/
 - name: Full Paper (Nature)
   url: https://doi.org/10.1038/s41586-022-04996-4
-- name: Supplementary Information (Nature)
-  url: https://static-content.springer.com/esm/art\%3A10.1038\%2Fs41586-022-04996-4/MediaObjects/41586_2022_4996_MOESM1_ESM.pdf
 - name: Full Paper (NBER WP)
-  url: "nber_wp.pdf"
+  url: "social-capital1_wp.pdf"
 - name: Code and Data
   url: https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=3978
 - name: Slides
-  url: "slides.pdf"
+  url: "social-capital_slides.pdf"
+- name: New York Times Coverage (1)
+  url: https://www.nytimes.com/interactive/2022/08/01/upshot/rich-poor-friendships.html
+- name: New York Times Coverage (2)
+  url: https://www.nytimes.com/2022/08/01/briefing/economic-ladder-rich-poor-americans.html
+- name: The Economist Coverage
+  url: https://www.economist.com/graphic-detail/2022/08/01/a-new-study-shows-how-much-social-capital-matters
+- name: NPR Coverage
+  url: https://www.npr.org/sections/money/2022/08/01/1114661467/why-the-american-dream-is-more-attainable-in-some-cities-than-others
+- name: Brookings Discussion
+  url: https://www.brookings.edu/events/networks-of-opportunity-social-capital-and-economic-mobility/
 ---
