@@ -2,11 +2,11 @@
 title: Nicolaj Thor
 role: Economics PhD Student
 avatar_filename: nico.jpeg
-bio: "I'm a PhD student in Economics at Brown. Previously, I was a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, behavioural economics, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths at NYU Abu Dhabi in 2019."
+bio: "I'm a PhD student in Economics at Brown University. Previously, I was a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths at NYU Abu Dhabi in 2019 and received my MA in Economics from Brown in 2023. You can reach me at thor@brown.edu."
 interests:
-  - Social Capital and Networks
-  - Behavioural Economics
+  - Economic Mobility
   - Development Economics
+  - Social Capital and Networks
 social:
   - icon: github
     icon_pack: fab
@@ -32,6 +32,9 @@ education:
     - course: PhD in Economics
       institution: Brown University
       year: in progress
+    - course: MA in Economics
+      institution: Brown University
+      year: 2023
     - course: BA in Economics
       institution: NYU Abu Dhabi
       year: 2019
@@ -39,4 +42,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I'm a first-year PhD student in Economics at Brown. Previously, I was a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, behavioural economics, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths at NYU Abu Dhabi in 2019. You can reach me at thor@brown.edu.
+I'm a PhD student in Economics at Brown University. Previously, I was a predoctoral research fellow at [Opportunity Insights](https://opportunityinsights.org/) based at Harvard. I am interested in economic mobility, development economics, and the role of social capital and networks. I completed my BA in Economics with a minor in Applied Maths at NYU Abu Dhabi in 2019 and received my MA in Economics from Brown in 2023. You can reach me at thor@brown.edu.
